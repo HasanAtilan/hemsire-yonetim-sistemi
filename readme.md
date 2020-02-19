@@ -1,4 +1,4 @@
-# Merhaba Hemşireler İçin Kodladığım Hemşire Yönetim Sistemi v2
+# Merhaba Hemşireler İçin Kodladığım Hemşire Yönetim Sistemi v1
 # Özellikler
 
 <span>İlaç Eklemesi
