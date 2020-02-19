@@ -15,4 +15,4 @@
   
 <span>Hemşire Bilgisi
 
-<span>Kodlama Kesinlikle Bana Aittir , Kendim Hemşire Olduğum İçin Böyle Birşey Kodlıyayım Dedim.
+<span>Kodlama Kesinlikle Bana Aittir , Kendim Hemşire Olduğum İçin, Böyle Birşey Kodlıyayım Dedim.
