@@ -7,7 +7,7 @@
   
 <span>E-İmza Sistemi 
   
-<span>Edevlet APİ
+<span>E-Devlet APİ
   
 <span>TC Kimlik APİ
   
